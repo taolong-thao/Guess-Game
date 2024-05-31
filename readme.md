@@ -4,7 +4,7 @@ This project is a Guess Game Client Server
 ``Author: 18600355@student.hcmus.edu.vn``
 ***
 # Application Diagram
-![alt text](https://github.com/taolong-thao/Guess-Game/blob/master/diagram.jpg?raw=true)
+![alt text](https://github.com/taolong-thao/Guess-Game/blob/main/diagram.jpg?raw=true)
 ## Prerequisites
 
 - JDK (Java Development Kit) 21 or later
